@@ -6,7 +6,7 @@
     "rewrites": [
         {
             "source": "/api/python/:path*",
-            "destination": "https://YOUR-HUGGINGFACE-SPACE-URL.hf.space/api/:path*"
+            "destination": "https://prajwalk12-reqgen-api.hf.space/api/:path*"
         }
     ],
     "headers": [
