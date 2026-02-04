@@ -18,8 +18,8 @@ MAX_FILE_SIZE = 100 * 1024 * 1024  # 100 MB in bytes
 ALLOWED_EXTENSIONS = {'.mp3', '.wav', '.m4a', '.ogg', '.flac', '.aac', '.wma', '.webm'}
 
 # Model settings
-WHISPER_MODEL = "tiny"  # Changed to tiny for Render Free Tier (512MB RAM)
-SUMMARIZATION_MODEL = "google/flan-t5-small" # Changed to small for Render Free Tier
+WHISPER_MODEL = "base"  # Upgraded from tiny for better accuracy
+SUMMARIZATION_MODEL = "google/flan-t5-large" # Upgraded from small for much better refinement
 
 # Whisper settings
 CHUNK_LENGTH_S = 30  # Chunk length for long-form transcription
