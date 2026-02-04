@@ -5,8 +5,8 @@
     "framework": "vite",
     "rewrites": [
         {
-            "source": "/api/python/:path*",
-            "destination": "https://prajwalk12-reqgen-api.hf.space/api/:path*"
+            "source": "/api/:path*",
+            "destination": "https://YOUR-KOYEB-APP-URL.koyeb.app/api/:path*"
         }
     ],
     "headers": [
