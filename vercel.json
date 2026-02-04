@@ -6,7 +6,7 @@
     "rewrites": [
         {
             "source": "/api/:path*",
-            "destination": "https://YOUR-KOYEB-APP-URL.koyeb.app/api/:path*"
+            "destination": "https://frozen-katie-cybaem-4d83cd3d.koyeb.app/api/:path*"
         }
     ],
     "headers": [
