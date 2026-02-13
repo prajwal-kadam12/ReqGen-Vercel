@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "id": "4bf86ce3-51df-478b-93c8-44447eef1b48",
+    "companyName": "",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "apiKey": "",
+    "logo": "",
+    "updatedAt": "2026-02-04T05:11:12.537Z"
+  },
+  "users": [
+    {
+      "id": "bc8b7b8b-8435-4217-b5b6-043109ba7ce9",
+      "username": "analyst",
+      "email": "analyst@reqgen.com",
+      "password": "analyst123",
+      "role": "analyst",
+      "name": "Business Analyst"
+    },
+    {
+      "id": "8e0109c5-445a-4b07-88b7-83bcbed2b194",
+      "username": "admin",
+      "email": "admin@reqgen.com",
+      "password": "admin123",
+      "role": "admin",
+      "name": "System Administrator"
+    },
+    {
+      "id": "adb8b182-cc33-4471-ab38-959a8f02f744",
+      "username": "client",
+      "email": "client@reqgen.com",
+      "password": "client123",
+      "role": "client",
+      "name": "Client User"
+    }
+  ],
+  "documents": [
+    {
+      "name": "LMS",
+      "type": "brd",
+      "content": "\n================================================================================\nBUSINESS REQUIREMENTS DOCUMENT (BRD)\n================================================================================\n\nDocument Information:\n--------------------\nProject Name:     LMS\nDocument Date:    2026-02-04\nVersion:          1.0\nPrepared By:      ReqGen User\nStatus:           Draft - Extracted from Audio\nDepartment:       TBD\nSponsor:          TBD\n\n\n1. EXECUTIVE SUMMARY\n================================================================================\n\nSummary: Learn that the child's parents become the anger, and they take lows and wait for the storm to pass. Observe the calm and calm of the parent's children. Learn that it is a good idea to be calm and quiet when the storm is coming down. Remember that parents are not the only ones who are the most angry, but they are the ones who have a lot of anger and are unable to deal with the storm. Learn how to calm the child.\n\n\n2. BUSINESS OBJECTIVES\n================================================================================\n\nBased on the audio discussion, the key business objectives are:\n\nBusiness objectives to be refined based on stakeholder review.\n\n\n3. BUSINESS REQUIREMENTS\n================================================================================\n\nBusiness requirements extracted from executive summary above.\n\n\n4. FUNCTIONAL REQUIREMENTS\n================================================================================\n\nFunctional requirements to be detailed in technical specification.\n\n\n5. STAKEHOLDERS\n================================================================================\n\n\nPrimary Stakeholders:\n• Project Sponsor: TBD\n• Business Owner: TBD\n• Project Manager: TBD\n• End Users: As discussed in audio\n\n\n6. KEY DECISIONS\n================================================================================\n\nKey decisions documented in executive summary.\n\n\n7. SCOPE\n================================================================================\n\nIn Scope:\n• As defined in requirements above\n\n\nOut of Scope:\n• Items not mentioned in the audio discussion\n• Features to be considered for future phases\n\n\n\n8. TIMELINE & MILESTONES\n================================================================================\n\n\nProject Timeline:\n• Requirements Phase: TBD\n• Design Phase: TBD\n• Development Phase: TBD\n• Testing Phase: TBD\n• Deployment: TBD\n\n\n9. BUDGET & RESOURCES\n================================================================================\n\n• Learn what it means to listen to others\n• Learn to understand the impact of a loud child in a restaurant\n\n\n10. RISKS & ASSUMPTIONS\n================================================================================\n\nRisks Identified:\nRisk assessment to be conducted during project planning.\n\n\nAssumptions:\n• Resources will be available as per project timeline\n• Stakeholder approvals will be obtained in timely manner\n• Technical infrastructure is available and ready\n\n\n\n11. DEPENDENCIES\n================================================================================\n\n• Dependencies identified in audio discussion\n• External systems and integrations as required\n• Third-party services and vendors as needed\n\n\n12. SUCCESS CRITERIA\n================================================================================\n\nThe project will be considered successful when:\n\n• All business requirements are met\n• System is deployed and operational\n• User acceptance testing is completed successfully\n• Stakeholders sign off on deliverables\n\n\n13. APPROVAL\n================================================================================\n\nThis document has been reviewed and approved by:\n\n\nBusiness Owner: _____________________    Date: ___________\n\nSignature:      _____________________\n\n\nProject Sponsor: ____________________    Date: ___________\n\nSignature:       ____________________\n\n\n================================================================================\nDocument Generated from Audio Analysis using Whisper Large + FLAN-T5 Large\nGenerated on: 2026-02-04 11:04:51\n================================================================================\n",
+      "originalNote": "Let's take a look at this. Let's take a look at this. Let's take a look at this.\n\nJapan raises some of the most respectful kids on earth, but not through strict rules. The secret is a may, a parenting strategy that builds such debimotional security that children obey out of connection, not fear. Here is how this creates kids who listen the first time. A may creates a bond that makes obedience natural. It means letting a child depend on you fully in the early years. A secure child does not fight for attention. They already feel seen, and kids who feel seen listen more willingly. Japanese obedience starts with emotional safety, not discipline. Before asking children to listen, the parents build an unshakable bond. Kids who feel deeply, secure, do not fight for attention. They already have it, and children who feel safe listen faster. Closiness comes before discipline in Japan. Mother's stiff physically near their toddlers throughout the day. There is one quickly to need, the nurture connection through touch, tone, and attention. When trust is strong, cooperation becomes effortless. Japanese parents teach through modeling, not lectures. Children watch before they act. If a parent wants the room clean, they calmly tidy first. Kids imitate what they see. Behavior comes, becomes something absorbed, not forced. The limitation is the strongest form of learning. Children absorb tone, rhythm, and behavior like sponges. No lecture needed. Children mirror the emotional climate, they grow up in. The power of V makes listening natural. Japanese parents rarely say do this because I said so. They say let's think about everyone. This teaches empathy early. Empathy makes kids more cooperative and aware. Kids behave respectfully when they understand impact. A loud child in a restaurant hears. Let's use quiet voices for others can enjoy their meal. They learn their actions affect people around them. Respect is taught through awareness, not fear. Natural consequences replace punishment. If a child refuses a jacket, they feel the cold. If the breaker toy, the toy is gone. Parents take calm and supportive reality becomes the teacher, not anger. This creates kids who make better choices even when no one is watching. They learn, cause and affect directly. They do not obey out of fear, they obey because it makes sense. Japanese children are trusted with real responsibilities early. Three-year child, help set tables, six-year-olds serve classmates lunch. Old students clean their own rooms. Responsibility becomes identity, not punishment. Contribution builds confidence faster than praise. Kids feel proud of doing real tasks. They see themselves as helpers, not burdens. This deepens a self-worth. Confident kids fight less, cooperate more and respect boundaries naturally. Japanese parents avoid power struggles all together. They use gentle persistence. They repeat expectations calmly without changing the boundary. The tone stays soft, the limit stays firm. Kids learn that listening is expected not negotiator. Most of the regulation is taught through calm presence. When a child melts down, parents become the anger. They take lows, speak softly and wait for the storm to pass. Children learn that big feelings are safe over time, they mirror the calm they see.",
+      "refinedNote": "Learn the secrets of parenting in Japan. Learn how to listen. Learn the power of V. Learn to understand the impact of a loud child in a restaurant. Learn what it means to listen to others. Learn when no one is watching. Learn if they don't obey out of fear. Learn as much as they can as they do. Learn more about the importance of listening to children. Summary: Learn to respect boundaries. Learn to listen to the rules. Learn that parents become the anger, and they take lows and wait for the storm to pass. Observe the calm and calm of the child's parents.",
+      "companyName": null,
+      "projectName": "LMS",
+      "status": "pending",
+      "clientMessage": null,
+      "id": "f3aaecbf-384d-420d-a74a-e3b4d0c5189a",
+      "createdAt": "2026-02-04T05:35:01.156Z",
+      "lastUpdatedAt": null,
+      "updatedBy": null,
+      "previousContent": null
+    }
+  ],
+  "notifications": [],
+  "userNotifications": []
+}

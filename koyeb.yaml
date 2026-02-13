@@ -1,0 +1,37 @@
+name: reqgen-backend
+type: web
+regions:
+  - fra
+
+# Docker deployment
+docker:
+  dockerfile: Dockerfile
+
+# Instance configuration
+instance_types:
+  - type: free
+
+# Environment variables
+env:
+  - key: NODE_ENV
+    value: production
+  - key: PORT
+    value: "8080"
+  - key: PYTHON_BACKEND_URL
+    value: https://prajwalk12-reqgen-api.hf.space
+
+# Health check
+health_checks:
+  - type: http
+    path: /api/settings
+    port: 8080
+    initial_delay_seconds: 60
+    period_seconds: 30
+    timeout_seconds: 10
+    healthy_threshold: 1
+    unhealthy_threshold: 3
+
+# Port configuration
+ports:
+  - port: 8080
+    protocol: http

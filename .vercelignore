@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+
+# Python Backend (deployed separately on Hugging Face)
+python-backend/
+php-project/
+
+# Development files
+*.local
+.env
+.env.*
+!.env.example
+
+# Build outputs (Vercel creates its own)
+dist/
+dist-ssr/
+
+# Server files (not needed for frontend-only deploy)
+server/
+db/
+database/
+
+# Documentation and notebooks
+*.md
+*.ipynb
+*.sql
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Audio files
+*.m4a
+*.webm
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Storage
+.storage-data.json
